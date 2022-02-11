@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^1.2.0",
-    "ajv": "^6.5.0",
+    "ajv": "^6.12.3",
     "axios": "^0.18.0",
     "bootstrap": "^4.1.1",
     "django-channels": "^1.1.6",
